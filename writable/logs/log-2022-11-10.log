@@ -1,0 +1,8 @@
+CRITICAL - 2022-11-10 15:44:34 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Chef.php(540): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Chef->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}

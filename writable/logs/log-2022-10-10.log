@@ -1,0 +1,129 @@
+CRITICAL - 2022-10-10 21:23:32 --> Undefined array key "payment_mode"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(37): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-10 21:23:35 --> Undefined array key "payment_mode"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(37): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-10 21:23:40 --> Undefined array key "payment_mode"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(37): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-10 21:25:05 --> Undefined array key "payment_mode"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(37): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-10 21:25:14 --> Undefined array key "payment_mode"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(37): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-10 21:27:59 --> There is no data to update.
+#0 /home/dinxstud/public_html/chandani/system/BaseModel.php(853): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+#1 /home/dinxstud/public_html/chandani/system/Model.php(646): CodeIgniter\BaseModel->update()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/Client.php(30): CodeIgniter\Model->update()
+#3 [internal function]: App\Controllers\Client->App\Controllers\{closure}()
+#4 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1130): call_user_func()
+#5 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4570): App\Libraries\grocery_CRUD_Model_Driver->db_update()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Client.php(35): App\Libraries\GroceryCrud->render()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Client->clientProfile()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-10-10 21:28:42 --> There is no data to update.
+#0 /home/dinxstud/public_html/chandani/system/BaseModel.php(853): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+#1 /home/dinxstud/public_html/chandani/system/Model.php(646): CodeIgniter\BaseModel->update()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/Client.php(30): CodeIgniter\Model->update()
+#3 [internal function]: App\Controllers\Client->App\Controllers\{closure}()
+#4 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1130): call_user_func()
+#5 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4570): App\Libraries\grocery_CRUD_Model_Driver->db_update()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Client.php(35): App\Libraries\GroceryCrud->render()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Client->clientProfile()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-10-10 21:28:45 --> There is no data to update.
+#0 /home/dinxstud/public_html/chandani/system/BaseModel.php(853): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+#1 /home/dinxstud/public_html/chandani/system/Model.php(646): CodeIgniter\BaseModel->update()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/Client.php(30): CodeIgniter\Model->update()
+#3 [internal function]: App\Controllers\Client->App\Controllers\{closure}()
+#4 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1130): call_user_func()
+#5 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4570): App\Libraries\grocery_CRUD_Model_Driver->db_update()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Client.php(35): App\Libraries\GroceryCrud->render()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Client->clientProfile()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-10-10 21:28:54 --> Undefined array key "payment_mode"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(37): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-10 21:29:01 --> Undefined array key "payment_mode"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(37): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-10 21:47:43 --> Undefined array key "payment_mode"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(37): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-10 21:47:51 --> Undefined array key "payment_mode"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(37): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-10 21:48:13 --> Undefined array key "payment_mode"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(37): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-10 21:48:58 --> There is no data to update.
+#0 /home/dinxstud/public_html/chandani/system/BaseModel.php(853): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+#1 /home/dinxstud/public_html/chandani/system/Model.php(646): CodeIgniter\BaseModel->update()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/Client.php(30): CodeIgniter\Model->update()
+#3 [internal function]: App\Controllers\Client->App\Controllers\{closure}()
+#4 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1130): call_user_func()
+#5 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4570): App\Libraries\grocery_CRUD_Model_Driver->db_update()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Client.php(35): App\Libraries\GroceryCrud->render()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Client->clientProfile()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-10-10 21:56:53 --> Undefined array key "payment_mode"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(37): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}

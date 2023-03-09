@@ -1,0 +1,207 @@
+CRITICAL - 2022-02-03 03:23:06 --> include(assets/grocery_crud/themes/no-flexigrid/config.php): Failed to open stream: No such file or directory
+#0 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(2731): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(2731): include()
+#2 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4490): App\Libraries\grocery_CRUD_Layout->setThemeBasics()
+#3 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(44): App\Libraries\GroceryCrud->render()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->buffetPricing()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-03 03:23:43 --> include(assets/grocery_crud/themes/tablestrap/config.php): Failed to open stream: No such file or directory
+#0 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(2731): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(2731): include()
+#2 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4490): App\Libraries\grocery_CRUD_Layout->setThemeBasics()
+#3 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(44): App\Libraries\GroceryCrud->render()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->buffetPricing()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-02-03 08:18:39 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::insert()
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(85): App\Models\UserActivityModel->insertActivity()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(70): App\Controllers\BaseController->insertActivity()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(781): App\Controllers\BaseController->initController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(391): CodeIgniter\CodeIgniter->createController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-03 08:21:10 --> Undefined variable $page
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(73): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(781): App\Controllers\BaseController->initController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(391): CodeIgniter\CodeIgniter->createController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-03 08:22:07 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::insert()
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(80): App\Models\UserActivityModel->insertActivity()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(781): App\Controllers\BaseController->initController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(391): CodeIgniter\CodeIgniter->createController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-03 15:17:26 --> Undefined variable $request
+#0 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(47): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->buffetPricing()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-02-03 15:21:32 --> Column 'id' in where clause is ambiguous
+CRITICAL - 2022-02-03 15:21:32 --> Column 'id' in where clause is ambiguous
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/app/Models/GroceryCrudModel.php(89): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1383): App\Models\GroceryCrudModel->get_list()
+#6 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1503): App\Libraries\grocery_CRUD_Model_Driver->get_list()
+#7 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4496): App\Libraries\grocery_CRUD_Layout->showList()
+#8 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(49): App\Libraries\GroceryCrud->render()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->buffetPricing()
+#10 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#11 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-02-03 17:59:28 --> syntax error, unexpected token "->"
+#0 /home/dinxstud/public_html/chandani/system/Router/Router.php(160): CodeIgniter\Router\Router->autoRoute()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(703): CodeIgniter\Router\Router->handle()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-03 18:02:48 --> Unclosed '{' on line 71 does not match ')'
+#0 /home/dinxstud/public_html/chandani/system/Router/Router.php(160): CodeIgniter\Router\Router->autoRoute()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(703): CodeIgniter\Router\Router->handle()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-03 18:06:03 --> Unclosed '{' on line 37 does not match ']'
+#0 /home/dinxstud/public_html/chandani/system/Router/Router.php(160): CodeIgniter\Router\Router->autoRoute()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(703): CodeIgniter\Router\Router->handle()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-03 19:35:16 --> Undefined variable $menuOption_ids
+#0 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(74): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->buffetPricing()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-03 19:52:49 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Views/adminFooter.php(55): implode()
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#3 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#5 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(76): view()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->buffetPricing()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-02-03 19:54:56 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Views/adminFooter.php(55): implode()
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#3 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#5 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(76): view()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->buffetPricing()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-02-03 19:56:16 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Views/adminFooter.php(55): implode()
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#3 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#5 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(76): view()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->buffetPricing()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-02-03 19:57:32 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Views/adminFooter.php(55): implode()
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#3 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#5 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(76): view()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->buffetPricing()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-02-03 19:57:34 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Views/adminFooter.php(55): implode()
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#3 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#5 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(76): view()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->buffetPricing()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-02-03 19:58:51 --> Unclosed '{' on line 37 does not match ']'
+#0 /home/dinxstud/public_html/chandani/system/Router/Router.php(160): CodeIgniter\Router\Router->autoRoute()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(703): CodeIgniter\Router\Router->handle()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-03 20:20:32 --> syntax error, unexpected token ","
+#0 /home/dinxstud/public_html/chandani/system/Router/Router.php(160): CodeIgniter\Router\Router->autoRoute()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(703): CodeIgniter\Router\Router->handle()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-03 20:21:06 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::first()
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->buffetPricing()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-03 20:22:13 --> syntax error, unexpected token ">", expecting identifier or variable or "{" or "$"
+#0 /home/dinxstud/public_html/chandani/system/Router/Router.php(160): CodeIgniter\Router\Router->autoRoute()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(703): CodeIgniter\Router\Router->handle()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-02-03 20:22:33 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+CRITICAL - 2022-02-03 20:22:33 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/system/Model.php(210): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/dinxstud/public_html/chandani/system/BaseModel.php(622): CodeIgniter\Model->doFirst()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(84): CodeIgniter\BaseModel->first()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->buffetPricing()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-02-03 20:23:40 --> Unknown column 'tblcompany_venue_id' in 'where clause'
+CRITICAL - 2022-02-03 20:23:40 --> Unknown column 'tblcompany_venue_id' in 'where clause'
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1561): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/system/Model.php(720): CodeIgniter\Database\BaseBuilder->getWhere()
+#5 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(84): CodeIgniter\Model->__call()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->buffetPricing()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#10 {main}

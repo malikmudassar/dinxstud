@@ -1,0 +1,69 @@
+CRITICAL - 2022-05-05 07:30:15 --> Undefined array key "name"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(32): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-05 07:31:19 --> Call to a member function getClientExtension() on bool
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-05 07:33:46 --> Call to a member function getRandomName() on bool
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-05 07:39:50 --> Call to a member function move() on bool
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-05 07:44:07 --> Undefined array key "file"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(37): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-05 07:55:12 --> move_uploaded_file(/assets/uploads/client_own_license/14380672906273c930b63db7.49424410.pdf): Failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(37): move_uploaded_file()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-05 07:56:01 --> move_uploaded_file(/assets/uploads/client_own_license/1108580066273c9619c9582.38821352.pdf): Failed to open stream: No such file or directory
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(38): move_uploaded_file()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-05 08:44:10 --> Undefined array key "STEP-1"
+#0 /home/dinxstud/public_html/chandani/app/Views/clientEvent.php(61): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(129): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-05 08:46:13 --> Undefined constant "_SESSION"
+#0 /home/dinxstud/public_html/chandani/system/View/View.php(214): include()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#3 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(129): view()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}

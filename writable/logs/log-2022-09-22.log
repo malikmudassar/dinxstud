@@ -1,0 +1,277 @@
+CRITICAL - 2022-09-22 03:47:57 --> implode(): Argument #1 ($pieces) must be of type array, string given
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(561): implode()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 03:50:29 --> Undefined variable $selection
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(576): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 04:23:09 --> Undefined variable $rules
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(665): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->floorplan()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 04:24:08 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(680): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->floorplan()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 05:24:47 --> Undefined variable $rules
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(749): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->napkin()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 05:25:38 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(791): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->napkin()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 05:40:09 --> Undefined variable $floorId
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(858): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->tableCloth()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 05:45:05 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(1475): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->orderConfirmation()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 05:54:54 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(1485): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->orderConfirmation()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 05:56:08 --> Attempt to read property "Friday" on array
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(1485): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->orderConfirmation()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 05:57:57 --> Attempt to read property "Friday" on array
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(1485): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->orderConfirmation()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 06:02:19 --> Class "App\Controllers\stdClass" not found
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->orderConfirmation()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-09-22 06:08:25 --> Trying to access array offset on value of type int
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(1503): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->orderConfirmation()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 06:10:15 --> Trying to access array offset on value of type int
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(1513): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->orderConfirmation()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 08:32:43 --> Undefined variable $msg
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(1080): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->terms()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 17:17:59 --> There is no data to update.
+#0 /home/dinxstud/public_html/chandani/system/BaseModel.php(853): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+#1 /home/dinxstud/public_html/chandani/system/Model.php(646): CodeIgniter\BaseModel->update()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/Client.php(30): CodeIgniter\Model->update()
+#3 [internal function]: App\Controllers\Client->App\Controllers\{closure}()
+#4 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1130): call_user_func()
+#5 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4570): App\Libraries\grocery_CRUD_Model_Driver->db_update()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Client.php(35): App\Libraries\GroceryCrud->render()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Client->clientProfile()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-09-22 17:18:04 --> There is no data to update.
+#0 /home/dinxstud/public_html/chandani/system/BaseModel.php(853): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+#1 /home/dinxstud/public_html/chandani/system/Model.php(646): CodeIgniter\BaseModel->update()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/Client.php(30): CodeIgniter\Model->update()
+#3 [internal function]: App\Controllers\Client->App\Controllers\{closure}()
+#4 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1130): call_user_func()
+#5 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4570): App\Libraries\grocery_CRUD_Model_Driver->db_update()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Client.php(35): App\Libraries\GroceryCrud->render()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Client->clientProfile()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-09-22 17:18:44 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(1835): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->modify()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 17:18:48 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(1835): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->modify()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 17:18:52 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(1835): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->modify()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 17:19:53 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(1835): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->modify()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 17:19:57 --> Undefined array key "event_time"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(34): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 17:20:01 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(1807): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->modify()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 17:20:06 --> Undefined array key "event_time"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(34): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 17:20:13 --> Undefined array key "event_time"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(34): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 17:20:16 --> Undefined array key "event_time"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(34): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 17:20:18 --> Undefined array key "event_time"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(34): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 17:20:19 --> Undefined array key "event_time"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(34): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 17:20:23 --> Undefined array key "event_time"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(34): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 17:20:30 --> Undefined array key "event_time"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(34): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 17:20:49 --> Undefined array key "event_time"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(34): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 17:21:17 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(1835): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->modify()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 17:21:32 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(1835): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->modify()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 17:21:41 --> Undefined array key "event_time"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(34): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 17:22:13 --> Undefined array key "event_time"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(34): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 17:22:17 --> Undefined array key "event_time"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(34): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 17:24:35 --> Undefined array key "event_time"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(34): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->new()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-22 17:24:42 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(1835): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->modify()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}

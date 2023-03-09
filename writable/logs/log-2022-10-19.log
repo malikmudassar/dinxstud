@@ -1,0 +1,86 @@
+CRITICAL - 2022-10-19 01:01:31 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-10-19 01:03:03 --> Cannot use isset() on the result of an expression (you can use "null !== expression" instead)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-10-19 01:05:11 --> Undefined variable $data
+#0 /home/dinxstud/public_html/chandani/app/Views/adminRegisteradminEdit.php(26): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/ManageClient.php(316): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageClient->modify()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-10-19 01:05:48 --> Undefined variable $data
+#0 /home/dinxstud/public_html/chandani/app/Views/adminRegisteradminEdit.php(29): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/ManageClient.php(316): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageClient->modify()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-10-19 01:24:06 --> There is no data to update.
+#0 /home/dinxstud/public_html/chandani/system/BaseModel.php(853): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+#1 /home/dinxstud/public_html/chandani/system/Model.php(646): CodeIgniter\BaseModel->update()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/ManageClient.php(311): CodeIgniter\Model->update()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageClient->modify()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-10-19 02:09:27 --> Undefined variable $company
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(1325): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->orderConfirmation()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-19 02:50:22 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(1901): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->modify()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-19 02:50:39 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(1901): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->modify()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-19 03:01:50 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/ManageReservation.php(372): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageReservation->reservation()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-19 03:09:31 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/ManageReservation.php(380): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageReservation->reservation()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-19 03:14:33 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/ManageReservation.php(484): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageReservation->reservation()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-10-19 03:16:01 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/ManageReservation.php(484): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageReservation->reservation()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}

@@ -1,0 +1,411 @@
+CRITICAL - 2021-11-09 05:49:02 --> Undefined property: App\Controllers\Administration::$input
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(11): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-09 05:49:05 --> Undefined property: App\Controllers\Administration::$input
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(11): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-09 05:50:00 --> Undefined property: App\Controllers\Administration::$input
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(11): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-09 05:51:45 --> Undefined variable $request
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(13): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-09 05:56:47 --> Array to string conversion
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(15): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-09 05:57:14 --> Array to string conversion
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(15): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-09 07:46:50 --> Class "App\Controllers\CompanyUserModel" not found
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-09 07:50:50 --> Undefined array key "name"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(32): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-09 08:04:07 --> Undefined array key "name"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(32): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-09 08:19:03 --> syntax error, unexpected variable "$this"
+#0 /home/dinxstud/public_html/chandani/system/Router/Router.php(160): CodeIgniter\Router\Router->autoRoute()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(703): CodeIgniter\Router\Router->handle()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-09 08:24:23 --> syntax error, unexpected identifier "print_r", expecting "," or ";"
+#0 /home/dinxstud/public_html/chandani/system/Router/Router.php(160): CodeIgniter\Router\Router->autoRoute()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(703): CodeIgniter\Router\Router->handle()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-09 08:29:54 --> Undefined property: App\Controllers\Administration::$router
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(59): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(12): App\Controllers\BaseController->insertActivity()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-09 08:31:55 --> Call to a member function fetch_method() on null
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(12): App\Controllers\BaseController->insertActivity()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-09 08:34:07 --> Call to a member function fetch_method() on null
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(12): App\Controllers\BaseController->insertActivity()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-09 08:41:15 --> Too few arguments to function CodeIgniter\HTTP\Request::fetchGlobal(), 0 passed in /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php on line 52 and at least 1 expected
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(52): CodeIgniter\HTTP\Request->fetchGlobal()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(781): App\Controllers\BaseController->initController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(391): CodeIgniter\CodeIgniter->createController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-09 08:55:41 --> Too few arguments to function CodeIgniter\HTTP\Request::fetchGlobal(), 0 passed in /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php on line 52 and at least 1 expected
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(52): CodeIgniter\HTTP\Request->fetchGlobal()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(781): App\Controllers\BaseController->initController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(391): CodeIgniter\CodeIgniter->createController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-09 09:01:02 --> Cannot access protected property CodeIgniter\HTTP\URI::$segments
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(781): App\Controllers\BaseController->initController()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(391): CodeIgniter\CodeIgniter->createController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-09 09:02:43 --> Cannot access protected property CodeIgniter\HTTP\URI::$segments
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(781): App\Controllers\BaseController->initController()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(391): CodeIgniter\CodeIgniter->createController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-09 09:02:54 --> Cannot access protected property CodeIgniter\HTTP\URI::$segments
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(781): App\Controllers\BaseController->initController()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(391): CodeIgniter\CodeIgniter->createController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-09 09:03:21 --> Cannot access protected property CodeIgniter\HTTP\URI::$segments
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(781): App\Controllers\BaseController->initController()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(391): CodeIgniter\CodeIgniter->createController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-09 09:04:29 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(781): App\Controllers\BaseController->initController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(391): CodeIgniter\CodeIgniter->createController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-09 09:05:28 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(54): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(781): App\Controllers\BaseController->initController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(391): CodeIgniter\CodeIgniter->createController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-09 09:05:47 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(781): App\Controllers\BaseController->initController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(391): CodeIgniter\CodeIgniter->createController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-09 09:05:50 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(57): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(781): App\Controllers\BaseController->initController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(391): CodeIgniter\CodeIgniter->createController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-09 09:15:25 --> Call to undefined function App\Controllers\now()
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(61): App\Controllers\BaseController->insertActivity()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(781): App\Controllers\BaseController->initController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(391): CodeIgniter\CodeIgniter->createController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2021-11-09 09:34:18 -->  route cannot be found while reverse-routing.
+#0 /home/dinxstud/public_html/chandani/system/HTTP/RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(69): CodeIgniter\HTTP\RedirectResponse->route()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->logout()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-09 09:46:21 --> Invalid file: admin.home
+#0 /home/dinxstud/public_html/chandani/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(75): view()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-09 09:47:25 --> Invalid file: admin.home
+#0 /home/dinxstud/public_html/chandani/system/View/View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+#1 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(75): view()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-09 10:17:50 --> Undefined array key "logo"
+#0 /home/dinxstud/public_html/chandani/app/Views/adminHeader.php(29): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(75): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-09 10:19:19 --> Undefined array key "logo"
+#0 /home/dinxstud/public_html/chandani/app/Views/adminHeader.php(29): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(78): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-09 10:19:36 --> syntax error, unexpected token ";"
+#0 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(78): view()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2021-11-09 12:15:25 --> include(assets/grocery_crud/languages/English.php): Failed to open stream: No such file or directory
+#0 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(3979): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(3979): include()
+#2 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4443): App\Libraries\GroceryCrud->_load_language()
+#3 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4467): App\Libraries\GroceryCrud->pre_render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Examples.php(13): App\Libraries\GroceryCrud->render()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Examples->customers_management()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-09 12:17:53 --> The template does not exist. Please check your files and try again.
+#0 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4492): App\Libraries\grocery_CRUD_Layout->set_basic_Layout()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Examples.php(13): App\Libraries\GroceryCrud->render()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Examples->customers_management()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-09 12:18:46 --> The template does not exist. Please check your files and try again.
+#0 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4492): App\Libraries\grocery_CRUD_Layout->set_basic_Layout()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Examples.php(13): App\Libraries\GroceryCrud->render()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Examples->customers_management()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2021-11-09 17:29:18 --> Call to undefined method App\Controllers\Administration::_exampleOutput()
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->companyProfile()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-09 17:44:08 --> Undefined variable $css_files
+#0 /home/dinxstud/public_html/chandani/app/Views/adminHeader.php(24): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(98): view()
+#5 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(94): App\Controllers\Administration->_exampleOutput()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->companyProfile()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-11-09 17:44:48 --> Undefined variable $css_files
+#0 /home/dinxstud/public_html/chandani/app/Views/adminHeader.php(24): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(98): view()
+#5 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(94): App\Controllers\Administration->_exampleOutput()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->companyProfile()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2021-11-09 19:16:22 --> Call to undefined method App\Libraries\GroceryCrud::callback_column()
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->companyProfile()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-09 19:21:23 --> Call to undefined method App\Libraries\GroceryCrud::callback_column()
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->companyProfile()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-09 19:26:16 --> Call to undefined method App\Libraries\GroceryCrud::callback_read_field()
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->companyProfile()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2021-11-09 19:36:52 --> Undefined variable $css_files
+#0 /home/dinxstud/public_html/chandani/app/Views/adminHeader.php(24): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(78): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-09 19:36:58 --> Undefined variable $css_files
+#0 /home/dinxstud/public_html/chandani/app/Views/adminHeader.php(24): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(78): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-09 19:37:25 --> Undefined variable $css_files
+#0 /home/dinxstud/public_html/chandani/app/Views/adminHeader.php(24): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(78): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-09 19:38:10 --> Undefined variable $css_files
+#0 /home/dinxstud/public_html/chandani/app/Views/adminHeader.php(24): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(78): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-09 19:38:13 --> Undefined variable $css_files
+#0 /home/dinxstud/public_html/chandani/app/Views/adminHeader.php(24): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(78): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-09 19:38:22 --> Undefined variable $css_files
+#0 /home/dinxstud/public_html/chandani/app/Views/adminHeader.php(24): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(78): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-09 19:39:20 --> Undefined variable $css_files
+#0 /home/dinxstud/public_html/chandani/app/Views/adminHeader.php(24): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(78): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-09 19:39:22 --> Undefined variable $css_files
+#0 /home/dinxstud/public_html/chandani/app/Views/adminHeader.php(24): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(78): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-09 19:39:24 --> Undefined variable $css_files
+#0 /home/dinxstud/public_html/chandani/app/Views/adminHeader.php(24): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(78): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2021-11-09 19:41:37 --> Unclosed '{' on line 24
+#0 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(78): view()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}

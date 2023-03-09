@@ -1,0 +1,200 @@
+CRITICAL - 2021-11-06 22:19:33 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(28): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:19:36 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(28): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:19:41 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(28): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:20:28 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(28): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:21:52 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(28): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:27:59 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(28): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:28:01 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(28): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:29:56 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(28): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:29:58 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(28): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:34:38 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(28): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:34:41 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(28): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:34:57 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(28): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:34:57 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(28): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:34:58 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(28): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:34:58 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(28): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:37:33 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(28): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:38:08 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(28): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:38:10 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(28): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:39:58 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(28): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:41:39 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(29): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:41:40 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(29): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:41:41 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(29): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:41:42 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(29): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:42:46 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(29): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:51:11 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(218): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(29): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:52:15 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(29): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:52:24 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(29): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:52:26 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(29): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:52:43 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(29): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 22:55:22 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(217): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(176): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 /home/dinxstud/public_html/chandani/public/index.php(29): require('/home/dinxstud/...')
+#4 {main}
+CRITICAL - 2021-11-06 23:01:16 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 /home/dinxstud/public_html/chandani/public/index.php(29): require('/home/dinxstud/...')
+#2 {main}
+CRITICAL - 2021-11-06 23:01:50 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 /home/dinxstud/public_html/chandani/public/index.php(29): require('/home/dinxstud/...')
+#2 {main}
+CRITICAL - 2021-11-06 23:01:52 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 /home/dinxstud/public_html/chandani/public/index.php(29): require('/home/dinxstud/...')
+#2 {main}
+CRITICAL - 2021-11-06 23:02:39 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 /home/dinxstud/public_html/chandani/public/index.php(29): require('/home/dinxstud/...')
+#2 {main}
+CRITICAL - 2021-11-06 23:08:11 --> Call to undefined function CodeIgniter\locale_set_default()
+#0 /home/dinxstud/public_html/chandani/system/bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#1 /home/dinxstud/public_html/chandani/public/index.php(29): require('/home/dinxstud/...')
+#2 {main}

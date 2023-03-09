@@ -1,0 +1,280 @@
+CRITICAL - 2022-11-15 09:44:02 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(90): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 09:44:09 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(90): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 09:44:44 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(90): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 09:45:09 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(90): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 09:45:13 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(90): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 09:45:28 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(63): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 09:47:43 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Chef.php(540): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Chef->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 09:48:45 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(63): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 09:48:55 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(63): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 09:49:21 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(63): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 09:49:25 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(63): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 09:49:35 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Chef.php(540): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Chef->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 09:50:09 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(63): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 09:56:47 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(63): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 09:56:49 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(63): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 09:56:51 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(63): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 09:57:24 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(63): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 09:58:03 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(63): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 09:59:41 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(143): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(63): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 10:00:02 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(63): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 10:15:51 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(90): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 10:15:51 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(90): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 10:26:40 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(90): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 10:41:54 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(63): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 10:41:59 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(63): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 10:42:09 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(63): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 11:07:29 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(63): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 11:10:40 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(63): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 11:14:00 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(63): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 11:15:16 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(63): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 11:16:43 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(90): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 11:42:31 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(63): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 11:48:29 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(90): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 11:48:29 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(90): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-11-15 11:48:40 --> Undefined array key 1
+#0 /home/dinxstud/public_html/chandani/app/Controllers/BaseController.php(145): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(90): App\Controllers\BaseController->getTemperature()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#5 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#6 {main}

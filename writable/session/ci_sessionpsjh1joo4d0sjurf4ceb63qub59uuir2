@@ -1,0 +1,19 @@
+__ci_last_regenerate|i:1672056145;_ci_previous_url|s:42:"https://chandani.dinxstudio.com/events/new";client_id|s:2:"51";name|s:10:"Najam Amin";email|s:21:"najamamin@hotmail.com";logo|s:79:"https://chandani.dinxstudio.com/assets/images/chandni-victoria-mainsub-logo.png";avatar|s:78:"https://chandani.dinxstudio.com/assets/images/User-Administrator-Blue-icon.png";isLoggedIn|b:1;MODIFYEVENTS|a:0:{}EVENTS|a:1:{s:6:"STEP-1";a:27:{s:13:"tblcompany_id";i:1;s:20:"tblcompany_client_id";s:2:"51";s:14:"event_datetime";s:10:"2022-12-27";s:10:"event_time";s:13:"Morning Event";s:12:"payment_mode";s:14:"Email Transfer";s:12:"no_of_guests";s:2:"12";s:10:"coat_check";s:3:"Yes";s:18:"valid_licensed_bar";s:14:"Not applicable";s:16:"own_license_file";s:0:"";s:16:"no_of_bartenders";s:1:"0";s:18:"need_a_hall_rental";s:3:"Yes";s:20:"need_security_gaurds";s:2:"No";s:24:"how_many_security_gaurds";s:1:"0";s:11:"groom_title";s:2:"Mr";s:11:"groom_fname";s:7:"testone";s:11:"bride_title";s:3:"Mrs";s:11:"bride_fname";s:7:"testone";s:11:"groom_lname";s:4:"test";s:11:"bride_lname";s:4:"test";s:11:"groom_phone";s:10:"1111111111";s:11:"bride_phone";s:10:"1111111111";s:13:"groom_address";s:1:"e";s:13:"bride_address";s:1:"e";s:25:"groom_driver_license_file";s:103:"https://chandani.dinxstudio.com/assets/uploads/client_own_license/153898315863a98bcb6451c7.04004176.jpg";s:25:"bride_driver_license_file";s:103:"https://chandani.dinxstudio.com/assets/uploads/client_own_license/177003380363a98bcb64c318.10966716.jpg";s:17:"calendar_event_id";s:0:"";s:10:"created_at";s:19:"2022-12-26 05:55:55";}}message|s:739:"<!-- DEBUG-VIEW START 1 SYSTEMPATH/Validation/Views/list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>The event_date field is required.</li>
+					<li>The no_of_guests field is required.</li>
+					<li>The no_of_bartenders field is required.</li>
+					<li>The groom_fname field is required.</li>
+					<li>The bride_fname field is required.</li>
+					<li>The groom_lname field is required.</li>
+					<li>The bride_lname field is required.</li>
+					<li>The groom_phone field is required.</li>
+					<li>The bride_phone field is required.</li>
+					<li>The groom_address field is required.</li>
+					<li>The bride_address field is required.</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH/Validation/Views/list.php -->
+";__ci_vars|a:2:{s:7:"message";s:3:"new";s:11:"alert-class";s:3:"new";}alert-class|s:12:"alert-danger";

@@ -1,0 +1,323 @@
+CRITICAL - 2022-05-08 14:07:31 --> Undefined array key "password"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(39): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-08 14:07:44 --> Undefined array key "password"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(39): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-08 14:08:43 --> Undefined array key "password"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(39): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-08 14:09:02 --> Undefined array key "password"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(39): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-08 14:09:23 --> Undefined array key "password"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(39): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-05-08 16:37:08 --> Unknown column 'show_order_category' in 'order clause'
+CRITICAL - 2022-05-08 16:37:08 --> Unknown column 'show_order_category' in 'order clause'
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/system/Model.php(720): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(252): CodeIgniter\Model->__call()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-05-08 17:04:23 --> syntax error, unexpected token "<"
+#0 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(330): view()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-08 17:04:56 --> Undefined variable $menu_item_ids
+#0 /home/dinxstud/public_html/chandani/app/Views/menuItems.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(330): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-08 17:05:12 --> Undefined variable $menu_item_ids
+#0 /home/dinxstud/public_html/chandani/app/Views/menuItems.php(53): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(330): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-08 17:34:30 --> Unclosed '{' on line 27 does not match ')'
+#0 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(330): view()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-08 18:03:17 --> Undefined array key "selected_menuOption"
+#0 /home/dinxstud/public_html/chandani/app/Views/summary.php(161): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/View/View.php(432): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Views/menuItems.php(121): CodeIgniter\View\View->include()
+#5 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#6 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#8 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(351): view()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#10 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#11 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-05-08 18:06:49 --> Array to string conversion
+#0 /home/dinxstud/public_html/chandani/app/Views/summary.php(166): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/View/View.php(432): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Views/menuItems.php(121): CodeIgniter\View\View->include()
+#5 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#6 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#8 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(351): view()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#10 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#11 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-05-08 18:08:27 --> Array to string conversion
+#0 /home/dinxstud/public_html/chandani/app/Views/summary.php(166): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/View/View.php(432): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Views/menuItems.php(121): CodeIgniter\View\View->include()
+#5 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#6 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#7 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#8 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(351): view()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#10 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#11 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-05-08 18:25:01 --> [] operator not supported for strings
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-08 18:26:24 --> [] operator not supported for strings
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-08 18:32:45 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Views/summary.php(173): implode()
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#3 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 /home/dinxstud/public_html/chandani/system/View/View.php(432): CodeIgniter\View\View->render()
+#5 /home/dinxstud/public_html/chandani/app/Views/menuItems.php(121): CodeIgniter\View\View->include()
+#6 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#7 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#8 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#9 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(352): view()
+#10 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#11 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#12 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#13 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2022-05-08 18:33:23 --> syntax error, unexpected token ";"
+#0 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(432): CodeIgniter\View\View->render()
+#2 /home/dinxstud/public_html/chandani/app/Views/menuItems.php(121): CodeIgniter\View\View->include()
+#3 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#4 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#5 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(352): view()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-05-08 18:38:28 --> Array to string conversion
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/app/Views/summary.php(173): implode()
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#3 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#4 /home/dinxstud/public_html/chandani/system/View/View.php(432): CodeIgniter\View\View->render()
+#5 /home/dinxstud/public_html/chandani/app/Views/menuItems.php(121): CodeIgniter\View\View->include()
+#6 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#7 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#8 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#9 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(355): view()
+#10 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#11 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#12 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#13 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#14 {main}
+CRITICAL - 2022-05-08 18:46:20 --> [] operator not supported for strings
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-08 18:51:54 --> Undefined array key "VEGETARIAN"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(340): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-08 19:21:09 --> Undefined variable $data
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(365): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->floorplan()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-08 19:23:52 --> Unclosed '{' on line 247
+#0 /home/dinxstud/public_html/chandani/system/Router/Router.php(160): CodeIgniter\Router\Router->autoRoute()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(703): CodeIgniter\Router\Router->handle()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-08 19:49:13 --> Unclosed '{' on line 26
+#0 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(388): view()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->floorplan()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-08 19:54:59 --> syntax error, unexpected token "else", expecting "," or ";"
+#0 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(388): view()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->floorplan()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-08 19:55:27 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(388): view()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->floorplan()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-05-08 20:13:39 --> syntax error, unexpected token "=>"
+#0 /home/dinxstud/public_html/chandani/system/Router/Router.php(160): CodeIgniter\Router\Router->autoRoute()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(703): CodeIgniter\Router\Router->handle()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-08 20:27:52 --> Undefined variable $floor_plans
+#0 /home/dinxstud/public_html/chandani/app/Views/napkin.php(24): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(465): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->napkin()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-08 20:28:01 --> Undefined variable $floor_plans
+#0 /home/dinxstud/public_html/chandani/app/Views/napkin.php(24): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(465): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->napkin()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-08 20:30:10 --> Undefined variable $floor_plans
+#0 /home/dinxstud/public_html/chandani/app/Views/napkin.php(24): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(465): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->napkin()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-08 20:38:31 --> Undefined variable $companyVenueHallsModel
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(448): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->napkin()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-08 20:38:55 --> Undefined array key "floor_plan_selected"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(453): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->napkin()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-08 20:50:32 --> Undefined variable $napkins
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(491): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->tableCloth()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-08 20:50:59 --> Undefined variable $napkins
+#0 /home/dinxstud/public_html/chandani/app/Views/napkin.php(25): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(518): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->tableCloth()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-05-08 20:51:31 --> Undefined variable $companyVenueNapkinsModel
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(501): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->tableCloth()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}

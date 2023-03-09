@@ -1,0 +1,557 @@
+CRITICAL - 2022-06-06 12:15:54 --> App\Libraries\GroceryCrud::columns(): Argument #1 ($columns) must be of type array, string given, called in /home/dinxstud/public_html/chandani/app/Controllers/ManageEventTypes.php on line 19
+#0 /home/dinxstud/public_html/chandani/app/Controllers/ManageEventTypes.php(19): App\Libraries\GroceryCrud->columns()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageEventTypes->eventTypes()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 12:16:41 --> App\Libraries\GroceryCrud::columns(): Argument #1 ($columns) must be of type array, string given, called in /home/dinxstud/public_html/chandani/app/Controllers/ManageEventTypes.php on line 19
+#0 /home/dinxstud/public_html/chandani/app/Controllers/ManageEventTypes.php(19): App\Libraries\GroceryCrud->columns()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageEventTypes->eventTypes()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 12:16:45 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(139): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->add_pricing()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 12:16:54 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(139): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->add_pricing()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 12:17:01 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(139): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->add_pricing()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 12:17:06 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(139): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->add_pricing()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 17:10:23 --> Undefined array key "logo"
+#0 /home/dinxstud/public_html/chandani/app/Views/adminHeader.php(37): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(143): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->add_pricing()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-06 17:22:06 --> Undefined variable $company_name
+#0 /home/dinxstud/public_html/chandani/app/Views/home.php(5): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Register.php(83): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Register->save()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-06 17:22:47 --> Undefined variable $company_name
+#0 /home/dinxstud/public_html/chandani/app/Views/home.php(5): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Register.php(83): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Register->save()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-06 17:23:28 --> Undefined variable $company_name
+#0 /home/dinxstud/public_html/chandani/app/Views/home.php(5): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Register.php(83): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Register->save()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-06 17:36:56 --> Undefined variable $isNewRegistered
+#0 /home/dinxstud/public_html/chandani/app/Views/home.php(39): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(68): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-06 17:45:25 --> Cannot use object of type stdClass as array
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-06 17:46:07 --> Call to undefined method App\Controllers\Administration::shoiw()
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-06 17:47:04 --> Call to undefined function App\Controllers\now()
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-06 17:49:05 --> syntax error, unexpected token ";", expecting ")"
+#0 /home/dinxstud/public_html/chandani/system/Router/Router.php(160): CodeIgniter\Router\Router->autoRoute()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(703): CodeIgniter\Router\Router->handle()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 17:49:22 --> date_diff(): Argument #1 ($baseObject) must be of type DateTimeInterface, string given
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(95): date_diff()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 17:50:39 --> Call to undefined method App\Controllers\Administration::shoiw()
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-06 17:50:52 --> Too few arguments to function App\Controllers\BaseController::show(), 1 passed in /home/dinxstud/public_html/chandani/app/Controllers/Administration.php on line 97 and exactly 2 expected
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(97): App\Controllers\BaseController->show()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 17:52:43 --> Object of class DateInterval could not be converted to string
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-06 17:53:29 --> Object of class DateInterval could not be converted to string
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-06 17:53:32 --> Object of class DateInterval could not be converted to string
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-06 17:54:03 --> Object of class DateInterval could not be converted to string
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-06 17:54:06 --> Object of class DateInterval could not be converted to string
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-06 18:06:59 --> Class "App\Controllers\DateTime" not found
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-06 18:12:27 --> syntax error, unexpected token "}"
+#0 /home/dinxstud/public_html/chandani/system/Router/Router.php(160): CodeIgniter\Router\Router->autoRoute()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(703): CodeIgniter\Router\Router->handle()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 18:24:10 --> foreach() argument must be of type array|object, int given
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(96): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 18:58:54 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(161): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 18:59:01 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(161): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 19:01:07 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(162): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 19:02:31 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(163): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 19:03:41 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(161): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 19:04:54 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(162): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 19:05:37 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(162): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-06-06 19:14:27 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+CRITICAL - 2022-06-06 19:14:27 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/dinxstud/public_html/chandani/system/BaseModel.php(522): CodeIgniter\Model->doFind()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(159): CodeIgniter\BaseModel->find()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-06-06 19:14:58 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+CRITICAL - 2022-06-06 19:14:58 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/dinxstud/public_html/chandani/system/BaseModel.php(522): CodeIgniter\Model->doFind()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(159): CodeIgniter\BaseModel->find()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-06-06 19:15:50 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+CRITICAL - 2022-06-06 19:15:50 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/dinxstud/public_html/chandani/system/BaseModel.php(522): CodeIgniter\Model->doFind()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(159): CodeIgniter\BaseModel->find()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-06-06 19:17:06 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+CRITICAL - 2022-06-06 19:17:06 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/dinxstud/public_html/chandani/system/BaseModel.php(522): CodeIgniter\Model->doFind()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(159): CodeIgniter\BaseModel->find()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-06-06 19:17:35 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+CRITICAL - 2022-06-06 19:17:35 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/dinxstud/public_html/chandani/system/BaseModel.php(522): CodeIgniter\Model->doFind()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(159): CodeIgniter\BaseModel->find()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-06-06 19:17:48 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+CRITICAL - 2022-06-06 19:17:48 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/dinxstud/public_html/chandani/system/BaseModel.php(522): CodeIgniter\Model->doFind()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(159): CodeIgniter\BaseModel->find()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-06-06 19:18:06 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+CRITICAL - 2022-06-06 19:18:06 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/dinxstud/public_html/chandani/system/BaseModel.php(522): CodeIgniter\Model->doFind()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(159): CodeIgniter\BaseModel->find()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-06-06 19:18:48 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+CRITICAL - 2022-06-06 19:18:48 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/dinxstud/public_html/chandani/system/BaseModel.php(522): CodeIgniter\Model->doFind()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(159): CodeIgniter\BaseModel->find()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-06-06 19:19:30 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+CRITICAL - 2022-06-06 19:19:30 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/dinxstud/public_html/chandani/system/BaseModel.php(522): CodeIgniter\Model->doFind()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(159): CodeIgniter\BaseModel->find()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-06-06 19:20:19 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+CRITICAL - 2022-06-06 19:20:19 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/dinxstud/public_html/chandani/system/BaseModel.php(522): CodeIgniter\Model->doFind()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(159): CodeIgniter\BaseModel->find()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-06-06 19:20:54 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+CRITICAL - 2022-06-06 19:20:54 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/dinxstud/public_html/chandani/system/BaseModel.php(522): CodeIgniter\Model->doFind()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(159): CodeIgniter\BaseModel->find()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-06-06 19:22:07 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+CRITICAL - 2022-06-06 19:22:07 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/dinxstud/public_html/chandani/system/BaseModel.php(522): CodeIgniter\Model->doFind()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(159): CodeIgniter\BaseModel->find()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-06-06 19:23:36 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+CRITICAL - 2022-06-06 19:23:36 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/dinxstud/public_html/chandani/system/BaseModel.php(522): CodeIgniter\Model->doFind()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(159): CodeIgniter\BaseModel->find()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-06-06 19:23:48 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+CRITICAL - 2022-06-06 19:23:48 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/dinxstud/public_html/chandani/system/BaseModel.php(522): CodeIgniter\Model->doFind()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(159): CodeIgniter\BaseModel->find()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+ERROR - 2022-06-06 19:24:20 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+CRITICAL - 2022-06-06 19:24:20 --> Unknown column 'tblcompany_venues.deleted_at' in 'where clause'
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/system/Model.php(142): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/dinxstud/public_html/chandani/system/BaseModel.php(522): CodeIgniter\Model->doFind()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(159): CodeIgniter\BaseModel->find()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-06-06 19:33:41 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(164): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 19:36:46 --> Trying to access array offset on value of type null
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(165): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 19:37:39 --> Attempt to read property "first_name" on null
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(165): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 19:40:11 --> Call to undefined method CodeIgniter\Database\MySQLi\Result::row()
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-06 19:41:07 --> syntax error, unexpected token "->", expecting identifier or variable or "{" or "$"
+#0 /home/dinxstud/public_html/chandani/system/Router/Router.php(160): CodeIgniter\Router\Router->autoRoute()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(703): CodeIgniter\Router\Router->handle()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 19:42:20 --> Undefined property: stdClass::$name
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(166): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 19:42:53 --> Undefined property: stdClass::$name
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(166): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 19:46:30 --> date(): Argument #2 ($timestamp) must be of type ?int, string given
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(175): date()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 19:51:29 --> Attempt to read property "venue" on array
+#0 /home/dinxstud/public_html/chandani/app/Views/adminHome.php(164): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(180): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-06-06 20:05:01 --> syntax error, unexpected token "}"
+#0 /home/dinxstud/public_html/chandani/system/Router/Router.php(160): CodeIgniter\Router\Router->autoRoute()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(703): CodeIgniter\Router\Router->handle()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-06-06 20:05:24 --> Unknown column 'tblcompany_menuOption_id' in 'where clause'
+CRITICAL - 2022-06-06 20:05:24 --> Unknown column 'tblcompany_menuOption_id' in 'where clause'
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/system/Model.php(720): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(182): CodeIgniter\Model->__call()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2022-06-06 20:32:32 --> syntax error, unexpected token "echo"
+#0 /home/dinxstud/public_html/chandani/system/Router/Router.php(160): CodeIgniter\Router\Router->autoRoute()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(703): CodeIgniter\Router\Router->handle()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-06 20:33:00 --> Cannot use object of type App\Models\CompanyBuffetPricingModel as array
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-06-06 23:47:32 --> App\Libraries\GroceryCrud::columns(): Argument #1 ($columns) must be of type array, string given, called in /home/dinxstud/public_html/chandani/app/Controllers/ManageEventTypes.php on line 19
+#0 /home/dinxstud/public_html/chandani/app/Controllers/ManageEventTypes.php(19): App\Libraries\GroceryCrud->columns()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageEventTypes->eventTypes()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}

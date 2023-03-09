@@ -1,0 +1,194 @@
+CRITICAL - 2022-09-21 03:20:41 --> foreach() argument must be of type array|object, int given
+#0 /home/dinxstud/public_html/chandani/app/Views/menuItems.php(23): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(584): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-09-21 03:21:09 --> foreach() argument must be of type array|object, int given
+#0 /home/dinxstud/public_html/chandani/app/Views/menuItems.php(23): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(584): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-09-21 03:21:28 --> foreach() argument must be of type array|object, int given
+#0 /home/dinxstud/public_html/chandani/app/Views/menuItems.php(23): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(584): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-09-21 03:22:23 --> foreach() argument must be of type array|object, int given
+#0 /home/dinxstud/public_html/chandani/app/Views/menuItems.php(23): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(584): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-09-21 03:23:59 --> foreach() argument must be of type array|object, int given
+#0 /home/dinxstud/public_html/chandani/app/Views/menuItems.php(23): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(584): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-09-21 03:28:48 --> in_array(): Argument #2 ($haystack) must be of type array, int given
+#0 /home/dinxstud/public_html/chandani/app/Views/menuItems.php(72): in_array()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(214): include('/home/dinxstud/...')
+#2 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#4 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(584): view()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-09-21 03:32:05 --> implode(): Argument #1 ($pieces) must be of type array, string given
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(518): implode()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-21 03:49:28 --> implode(): Argument #1 ($pieces) must be of type array, string given
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(518): implode()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-21 04:01:11 --> Undefined array key "tblcompany_barOption_id"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(338): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->chooseHall()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-21 06:53:29 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(337): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-21 06:54:33 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(337): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-21 06:55:28 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(337): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-21 07:40:10 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(337): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-21 07:40:58 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(337): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-21 07:49:19 --> Undefined array key 0
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(360): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-09-21 07:50:08 --> There is no data to update.
+#0 /home/dinxstud/public_html/chandani/system/BaseModel.php(853): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+#1 /home/dinxstud/public_html/chandani/system/Model.php(646): CodeIgniter\BaseModel->update()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(522): CodeIgniter\Model->update()
+#3 [internal function]: App\Controllers\Administration->App\Controllers\{closure}()
+#4 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1130): call_user_func()
+#5 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4570): App\Libraries\grocery_CRUD_Model_Driver->db_update()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(527): App\Libraries\GroceryCrud->render()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->companyProfile()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-09-21 09:35:38 --> There is no data to update.
+#0 /home/dinxstud/public_html/chandani/system/BaseModel.php(853): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+#1 /home/dinxstud/public_html/chandani/system/Model.php(646): CodeIgniter\BaseModel->update()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/Client.php(30): CodeIgniter\Model->update()
+#3 [internal function]: App\Controllers\Client->App\Controllers\{closure}()
+#4 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1130): call_user_func()
+#5 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4570): App\Libraries\grocery_CRUD_Model_Driver->db_update()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Client.php(35): App\Libraries\GroceryCrud->render()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Client->clientProfile()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-09-21 09:36:20 --> There is no data to update.
+#0 /home/dinxstud/public_html/chandani/system/BaseModel.php(853): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+#1 /home/dinxstud/public_html/chandani/system/Model.php(646): CodeIgniter\BaseModel->update()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/Client.php(30): CodeIgniter\Model->update()
+#3 [internal function]: App\Controllers\Client->App\Controllers\{closure}()
+#4 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1130): call_user_func()
+#5 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4570): App\Libraries\grocery_CRUD_Model_Driver->db_update()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Client.php(35): App\Libraries\GroceryCrud->render()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Client->clientProfile()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-09-21 09:36:32 --> There is no data to update.
+#0 /home/dinxstud/public_html/chandani/system/BaseModel.php(853): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+#1 /home/dinxstud/public_html/chandani/system/Model.php(646): CodeIgniter\BaseModel->update()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/Client.php(30): CodeIgniter\Model->update()
+#3 [internal function]: App\Controllers\Client->App\Controllers\{closure}()
+#4 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1130): call_user_func()
+#5 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4570): App\Libraries\grocery_CRUD_Model_Driver->db_update()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Client.php(35): App\Libraries\GroceryCrud->render()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Client->clientProfile()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2022-09-21 09:36:35 --> There is no data to update.
+#0 /home/dinxstud/public_html/chandani/system/BaseModel.php(853): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset()
+#1 /home/dinxstud/public_html/chandani/system/Model.php(646): CodeIgniter\BaseModel->update()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/Client.php(30): CodeIgniter\Model->update()
+#3 [internal function]: App\Controllers\Client->App\Controllers\{closure}()
+#4 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1130): call_user_func()
+#5 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4570): App\Libraries\grocery_CRUD_Model_Driver->db_update()
+#6 /home/dinxstud/public_html/chandani/app/Controllers/Client.php(35): App\Libraries\GroceryCrud->render()
+#7 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Client->clientProfile()
+#8 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#10 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#11 {main}

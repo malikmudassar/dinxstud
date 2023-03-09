@@ -1,0 +1,7 @@
+CRITICAL - 2022-11-04 15:26:18 --> implode(): Argument #1 ($pieces) must be of type array, string given
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(569): implode()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}

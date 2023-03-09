@@ -1,0 +1,114 @@
+ERROR - 2022-01-29 04:49:26 --> Unknown column 'tblcompany_serviceCharges.tblcompany_venue_id' in 'on clause'
+CRITICAL - 2022-01-29 04:49:26 --> Unknown column 'tblcompany_serviceCharges.tblcompany_venue_id' in 'on clause'
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1428): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/app/Models/GroceryCrudModel.php(89): CodeIgniter\Database\BaseBuilder->get()
+#5 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1383): App\Models\GroceryCrudModel->get_list()
+#6 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1503): App\Libraries\grocery_CRUD_Model_Driver->get_list()
+#7 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4496): App\Libraries\grocery_CRUD_Layout->showList()
+#8 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(67): App\Libraries\GroceryCrud->render()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->serviceCharges()
+#10 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#11 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-01-29 04:50:36 --> Too few arguments to function App\Libraries\GroceryCrud::setRelation(), 1 passed in /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php on line 63 and at least 3 expected
+#0 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(63): App\Libraries\GroceryCrud->setRelation()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->serviceCharges()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-29 05:34:10 --> Call to undefined method App\Libraries\GroceryCrud::callback_after_insert()
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageVenues->venues()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-29 05:46:07 --> Call to undefined method App\Libraries\GroceryCrud::set_subject()
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageVenues->venues()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-29 05:49:40 --> syntax error, unexpected single-quoted string "ame", expecting ")"
+#0 /home/dinxstud/public_html/chandani/system/Router/Router.php(160): CodeIgniter\Router\Router->autoRoute()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(703): CodeIgniter\Router\Router->handle()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-29 05:49:51 --> Call to undefined method App\Libraries\GroceryCrud::add_fields()
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageVenues->venues()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-29 05:49:52 --> Call to undefined method App\Libraries\GroceryCrud::add_fields()
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageVenues->venues()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-29 07:38:39 --> Call to undefined method App\Libraries\GroceryCrud::set_rules()
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageVenues->venues()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-29 07:55:03 --> Call to undefined method App\Libraries\GroceryCrud::setRules()
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageVenues->venues()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-29 07:55:21 --> Undefined variable $model
+#0 /home/dinxstud/public_html/chandani/app/Controllers/ManageVenues.php(24): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageVenues->venues()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-29 07:56:02 --> syntax error, unexpected token ")", expecting "&" or variable
+#0 /home/dinxstud/public_html/chandani/system/Router/Router.php(160): CodeIgniter\Router\Router->autoRoute()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(703): CodeIgniter\Router\Router->handle()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-29 07:56:04 --> syntax error, unexpected token ")", expecting "&" or variable
+#0 /home/dinxstud/public_html/chandani/system/Router/Router.php(160): CodeIgniter\Router\Router->autoRoute()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(703): CodeIgniter\Router\Router->handle()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-29 07:58:50 --> Undefined variable $callbackAfterInsertModel
+#0 /home/dinxstud/public_html/chandani/app/Controllers/ManageVenues.php(24): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageVenues->venues()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-29 07:59:44 --> syntax error, unexpected token "new", expecting "&" or variable
+#0 /home/dinxstud/public_html/chandani/system/Router/Router.php(160): CodeIgniter\Router\Router->autoRoute()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(703): CodeIgniter\Router\Router->handle()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-29 17:46:29 --> syntax error, unexpected token "new", expecting "&" or variable
+#0 /home/dinxstud/public_html/chandani/system/Router/Router.php(160): CodeIgniter\Router\Router->autoRoute()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(703): CodeIgniter\Router\Router->handle()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(359): CodeIgniter\CodeIgniter->tryToRouteIt()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-29 18:57:02 --> Call to undefined method App\Libraries\GroceryCrud::field_type()
+#0 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageVenues->venues()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#3 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#4 {main}

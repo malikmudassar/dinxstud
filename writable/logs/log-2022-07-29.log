@@ -1,0 +1,21 @@
+CRITICAL - 2022-07-29 00:43:19 --> App\Libraries\GroceryCrud::columns(): Argument #1 ($columns) must be of type array, string given, called in /home/dinxstud/public_html/chandani/app/Controllers/ManageEventTypes.php on line 19
+#0 /home/dinxstud/public_html/chandani/app/Controllers/ManageEventTypes.php(19): App\Libraries\GroceryCrud->columns()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageEventTypes->eventTypes()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-29 17:03:13 --> App\Libraries\GroceryCrud::columns(): Argument #1 ($columns) must be of type array, string given, called in /home/dinxstud/public_html/chandani/app/Controllers/ManageEventTypes.php on line 19
+#0 /home/dinxstud/public_html/chandani/app/Controllers/ManageEventTypes.php(19): App\Libraries\GroceryCrud->columns()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageEventTypes->eventTypes()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-07-29 17:03:29 --> App\Libraries\GroceryCrud::fields(): Argument #1 ($fields) must be of type array, string given, called in /home/dinxstud/public_html/chandani/app/Controllers/ManageEventTypes.php on line 20
+#0 /home/dinxstud/public_html/chandani/app/Controllers/ManageEventTypes.php(20): App\Libraries\GroceryCrud->fields()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageEventTypes->eventTypes()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}

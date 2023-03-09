@@ -1,0 +1,9 @@
+CRITICAL - 2021-11-14 07:47:44 --> The table name does not exist. Please check you database and try again.
+#0 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4450): App\Libraries\GroceryCrud->get_table()
+#1 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4467): App\Libraries\GroceryCrud->pre_render()
+#2 /home/dinxstud/public_html/chandani/app/Controllers/ManageVenues.php(22): App\Libraries\GroceryCrud->render()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageVenues->venues()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#6 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#7 {main}

@@ -1,0 +1,19 @@
+[06-Nov-2021 22:30:02 UTC] PHP Parse error:  syntax error, unexpected 'successfully”' (T_STRING), expecting ';' or ',' in /home/dinxstud/public_html/chandani/public/test.php on line 17
+[06-Nov-2021 22:30:11 UTC] PHP Parse error:  syntax error, unexpected 'successfully”' (T_STRING), expecting ';' or ',' in /home/dinxstud/public_html/chandani/public/test.php on line 17
+[06-Nov-2021 22:32:44 UTC] PHP Parse error:  syntax error, unexpected 'successfully”' (T_STRING), expecting ';' or ',' in /home/dinxstud/public_html/chandani/public/test.php on line 20
+[06-Nov-2021 22:32:46 UTC] PHP Parse error:  syntax error, unexpected 'successfully”' (T_STRING), expecting ';' or ',' in /home/dinxstud/public_html/chandani/public/test.php on line 20
+[06-Nov-2021 22:32:51 UTC] PHP Parse error:  syntax error, unexpected 'successfully”' (T_STRING), expecting ';' or ',' in /home/dinxstud/public_html/chandani/public/test.php on line 20
+[06-Nov-2021 22:33:20 UTC] PHP Parse error:  syntax error, unexpected 'successfully”' (T_STRING), expecting ';' or ',' in /home/dinxstud/public_html/chandani/public/test.php on line 20
+[06-Nov-2021 23:08:54 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting ';' or ',' in /home/dinxstud/public_html/chandani/system/CodeIgniter.php on line 215
+[06-Nov-2021 23:12:39 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/dinxstud/public_html/chandani/system/Common.php on line 44
+[06-Nov-2021 23:13:03 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/dinxstud/public_html/chandani/system/Common.php on line 44
+[06-Nov-2021 23:15:28 UTC] PHP Parse error:  syntax error, unexpected ':', expecting '{' in /home/dinxstud/public_html/chandani/system/Common.php on line 44
+[09-Feb-2022 19:11:34 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\ManageBuffet::flowers() in /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php on line 504
+[04-May-2022 14:36:20 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\Events::step1() in /home/dinxstud/public_html/chandani/app/Controllers/Events.php on line 200
+[12-Oct-2022 04:10:35 America/Chicago] PHP Fatal error:  Declaration of App\Models\EventsModel::delete($id) must be compatible with CodeIgniter\BaseModel::delete($id = null, bool $purge = false) in /home/dinxstud/public_html/chandani/app/Models/EventsModel.php on line 72
+[19-Oct-2022 01:01:31 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/dinxstud/public_html/chandani/app/Controllers/ManageClient.php on line 284
+[19-Oct-2022 01:03:03 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/dinxstud/public_html/chandani/app/Controllers/ManageClient.php on line 284
+[31-Oct-2022 11:46:41 America/Chicago] PHP Fatal error:  Cannot redeclare App\Controllers\ModifyEvent::viewSummary() in /home/dinxstud/public_html/chandani/app/Controllers/ModifyEvent.php on line 2360
+[27-Dec-2022 05:50:10 America/Chicago] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/dinxstud/public_html/chandani/app/Controllers/Events.php on line 4
+[12-Jan-2023 04:58:00 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/dinxstud/public_html/chandani/app/Controllers/Events.php on line 194
+[12-Jan-2023 05:16:11 America/Chicago] PHP Fatal error:  Can't use method return value in write context in /home/dinxstud/public_html/chandani/app/Controllers/Events.php on line 194

@@ -1,0 +1,10 @@
+CRITICAL - 2022-07-08 15:06:42 --> Class "Date" not found
+#0 /home/dinxstud/public_html/chandani/system/View/View.php(214): include()
+#1 /home/dinxstud/public_html/chandani/system/View/View.php(217): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#2 /home/dinxstud/public_html/chandani/system/Common.php(1092): CodeIgniter\View\View->render()
+#3 /home/dinxstud/public_html/chandani/app/Controllers/Administration.php(221): view()
+#4 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Administration->home()
+#5 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#6 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#8 {main}

@@ -1,0 +1,189 @@
+CRITICAL - 2022-05-22 16:18:53 --> Undefined array key "password"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(39): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-22 17:12:15 --> Undefined variable $menu
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(289): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-22 17:13:03 --> Undefined variable $menu
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(289): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-22 17:16:10 --> Undefined variable $menu
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(289): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-22 17:20:48 --> Undefined variable $menu
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(289): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-22 17:26:06 --> Undefined variable $menu
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Events.php(289): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Events->menuItems()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-22 17:57:10 --> Undefined array key "password"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(39): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-22 17:57:14 --> Undefined array key "password"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(39): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-22 17:57:17 --> Undefined array key "password"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(39): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-22 17:57:25 --> Undefined array key "password"
+#0 /home/dinxstud/public_html/chandani/app/Controllers/Home.php(39): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\Home->index()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-05-22 18:15:10 --> App\Libraries\GroceryCrud::columns(): Argument #1 ($columns) must be of type array, string given, called in /home/dinxstud/public_html/chandani/app/Controllers/ManageEventTypes.php on line 19
+#0 /home/dinxstud/public_html/chandani/app/Controllers/ManageEventTypes.php(19): App\Libraries\GroceryCrud->columns()
+#1 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageEventTypes->eventTypes()
+#2 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#3 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-05-22 18:22:13 --> Column 'tblcompany_id' in where clause is ambiguous
+CRITICAL - 2022-05-22 18:22:13 --> Column 'tblcompany_id' in where clause is ambiguous
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1512): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/app/Models/GroceryCrudModel.php(182): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(485): App\Models\GroceryCrudModel->get_total_results()
+#6 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1706): App\Libraries\grocery_CRUD_Model_Driver->get_total_results()
+#7 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4607): App\Libraries\grocery_CRUD_Layout->showListInfo()
+#8 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(645): App\Libraries\GroceryCrud->render()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->menuItems()
+#10 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#11 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-22 18:22:16 --> Column 'tblcompany_id' in where clause is ambiguous
+CRITICAL - 2022-05-22 18:22:16 --> Column 'tblcompany_id' in where clause is ambiguous
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1512): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/app/Models/GroceryCrudModel.php(182): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(485): App\Models\GroceryCrudModel->get_total_results()
+#6 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1706): App\Libraries\grocery_CRUD_Model_Driver->get_total_results()
+#7 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4607): App\Libraries\grocery_CRUD_Layout->showListInfo()
+#8 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(645): App\Libraries\GroceryCrud->render()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->menuItems()
+#10 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#11 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-22 18:22:21 --> Column 'tblcompany_id' in where clause is ambiguous
+CRITICAL - 2022-05-22 18:22:21 --> Column 'tblcompany_id' in where clause is ambiguous
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1512): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/app/Models/GroceryCrudModel.php(182): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(485): App\Models\GroceryCrudModel->get_total_results()
+#6 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1706): App\Libraries\grocery_CRUD_Model_Driver->get_total_results()
+#7 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4607): App\Libraries\grocery_CRUD_Layout->showListInfo()
+#8 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(645): App\Libraries\GroceryCrud->render()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->menuItems()
+#10 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#11 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-22 18:22:29 --> Column 'tblcompany_id' in where clause is ambiguous
+CRITICAL - 2022-05-22 18:22:29 --> Column 'tblcompany_id' in where clause is ambiguous
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1512): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/app/Models/GroceryCrudModel.php(182): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(485): App\Models\GroceryCrudModel->get_total_results()
+#6 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1706): App\Libraries\grocery_CRUD_Model_Driver->get_total_results()
+#7 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4607): App\Libraries\grocery_CRUD_Layout->showListInfo()
+#8 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(645): App\Libraries\GroceryCrud->render()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->menuItems()
+#10 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#11 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-22 18:22:33 --> Column 'tblcompany_id' in where clause is ambiguous
+CRITICAL - 2022-05-22 18:22:33 --> Column 'tblcompany_id' in where clause is ambiguous
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1512): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/app/Models/GroceryCrudModel.php(182): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(485): App\Models\GroceryCrudModel->get_total_results()
+#6 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1706): App\Libraries\grocery_CRUD_Model_Driver->get_total_results()
+#7 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4607): App\Libraries\grocery_CRUD_Layout->showListInfo()
+#8 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(645): App\Libraries\GroceryCrud->render()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->menuItems()
+#10 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#11 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-22 18:22:34 --> Column 'tblcompany_id' in where clause is ambiguous
+CRITICAL - 2022-05-22 18:22:34 --> Column 'tblcompany_id' in where clause is ambiguous
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1512): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/app/Models/GroceryCrudModel.php(182): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(485): App\Models\GroceryCrudModel->get_total_results()
+#6 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1706): App\Libraries\grocery_CRUD_Model_Driver->get_total_results()
+#7 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4607): App\Libraries\grocery_CRUD_Layout->showListInfo()
+#8 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(645): App\Libraries\GroceryCrud->render()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->menuItems()
+#10 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#11 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-05-22 18:22:36 --> Column 'tblcompany_id' in where clause is ambiguous
+CRITICAL - 2022-05-22 18:22:36 --> Column 'tblcompany_id' in where clause is ambiguous
+#0 /home/dinxstud/public_html/chandani/system/Database/MySQLi/Connection.php(280): mysqli->query()
+#1 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(663): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/dinxstud/public_html/chandani/system/Database/BaseConnection.php(591): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/dinxstud/public_html/chandani/system/Database/BaseBuilder.php(1512): CodeIgniter\Database\BaseConnection->query()
+#4 /home/dinxstud/public_html/chandani/app/Models/GroceryCrudModel.php(182): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(485): App\Models\GroceryCrudModel->get_total_results()
+#6 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(1706): App\Libraries\grocery_CRUD_Model_Driver->get_total_results()
+#7 /home/dinxstud/public_html/chandani/app/Libraries/GroceryCrud.php(4607): App\Libraries\grocery_CRUD_Layout->showListInfo()
+#8 /home/dinxstud/public_html/chandani/app/Controllers/ManageBuffet.php(645): App\Libraries\GroceryCrud->render()
+#9 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(803): App\Controllers\ManageBuffet->menuItems()
+#10 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(400): CodeIgniter\CodeIgniter->runController()
+#11 /home/dinxstud/public_html/chandani/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#12 /home/dinxstud/public_html/chandani/public/index.php(38): CodeIgniter\CodeIgniter->run()
+#13 {main}
